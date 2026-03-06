@@ -1,1 +1,16 @@
 This is a native music player for Android devices that connects to Jellyfin media servers. The code is based on Gelli's archived repository, which is based on an old version of Phonograph. Jamfish is made for personal use, but contributions are welcome! Please open an issue to discuss larger changes before submitting a pull request.
+
+Features
+- Basic library navigation
+- Download songs to internal storage individually or through batch actions
+- Gapless playback
+- Sort albums and songs by different fields
+- Search media for partial matches
+- Media service integration with notification
+- Favorites and playlists
+- Playback history reporting
+- Filter content by library
+
+Requisites:
+- A Jellfin server
+- Android 4.4 or later
